@@ -4,7 +4,7 @@
   "description": "spotifyplayback allows you to show your spotify playback on telegram.", 
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node imdex.js"
   },
   "keywords": ["spotify", "telegram", "mongodb"],
   "author": "Sunny <https://github.com/sunnyxdm>",
